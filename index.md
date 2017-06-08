@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
+        <h1>glennut</h1>
         <a href="http://weibo.com/u/2833197112" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://www.jianshu/u/c87b8a8bce5c" target="_blank"><img src="http://cdn2.jianshu.io/assets/web/logo-58fd04f6f0de908401aa561cda6a0688.png" alt="" width="22"/></a>
       </div>
